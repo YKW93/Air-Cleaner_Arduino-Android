@@ -13,6 +13,7 @@
 3. 스위치 버튼을 통한 LED , Sound on/off 
 
 # 안드로이드 스크린샷
+- 아두이노 측정된 농도에 따른 화면 변화
 <div>
 <img width="200" src="https://user-images.githubusercontent.com/41371709/49079662-912c3b00-f284-11e8-8227-30a851afa906.jpg">
 <img width="200" src="https://user-images.githubusercontent.com/41371709/49079665-92f5fe80-f284-11e8-8f15-bf8fd093089f.jpg">
