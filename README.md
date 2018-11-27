@@ -14,10 +14,10 @@
 
 # 안드로이드 스크린샷
 <div>
-![1](https://user-images.githubusercontent.com/41371709/49079662-912c3b00-f284-11e8-8227-30a851afa906.jpg)
-![2](https://user-images.githubusercontent.com/41371709/49079665-92f5fe80-f284-11e8-8f15-bf8fd093089f.jpg)
-![3](https://user-images.githubusercontent.com/41371709/49079675-94bfc200-f284-11e8-9810-3f5b07357fa8.jpg)
-![4](https://user-images.githubusercontent.com/41371709/49079680-96898580-f284-11e8-9a72-5a89dcc6b942.jpg)
+<img width="200" src="https://user-images.githubusercontent.com/41371709/49079662-912c3b00-f284-11e8-8227-30a851afa906.jpg">
+<img width="200" src="https://user-images.githubusercontent.com/41371709/49079665-92f5fe80-f284-11e8-8f15-bf8fd093089f.jpg">
+<img width="200" src="https://user-images.githubusercontent.com/41371709/49079675-94bfc200-f284-11e8-9810-3f5b07357fa8.jpg">
+<img width="200" src="https://user-images.githubusercontent.com/41371709/49079680-96898580-f284-11e8-9a72-5a89dcc6b942.jpg">
 </div>
 
 
